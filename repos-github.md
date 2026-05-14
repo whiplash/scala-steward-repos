@@ -1247,6 +1247,7 @@
 - weso/shacl-s
 - weso/shex-s
 - weso/srdf
+- whiplash/slussen
 - windymelt/ak4-lambda
 - windymelt/cdp-scala
 - windymelt/zmm
